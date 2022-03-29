@@ -1,0 +1,1 @@
+one-time-key cipher - an unbreakable encryption technique that requires a key of at least the same length as the encrypted message.
