@@ -1,1 +1,1 @@
-Szyfr z kluczem jednorazowym — niemożliwej do złamania techniki szyfrowania, która wymaga klucza o co najmniej takiej samej długości jak szyfrowana wiadomość. 
+
